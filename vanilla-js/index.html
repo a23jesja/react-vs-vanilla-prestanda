@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produktkatalog - Vanilla JS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Produktkatalog</h1>
+        
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Sök produkter...">
+            
+            <select id="categoryFilter">
+                <option value="">Alla kategorier</option>
+            </select>
+            
+            <select id="sortSelect">
+                <option value="">Sortera efter...</option>
+                <option value="price-asc">Pris: Lägst först</option>
+                <option value="price-desc">Pris: Högst först</option>
+                <option value="name">Namn: A-Ö</option>
+            </select>
+        </div>
+
+        <div id="productCount"></div>
+        
+        <div id="productGrid"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
