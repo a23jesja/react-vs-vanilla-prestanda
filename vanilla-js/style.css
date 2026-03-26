@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Kontroller för sökning, filtrering och sortering */
+.controls {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.controls input,
+.controls select {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+#searchInput {
+    flex: 1;
+    min-width: 200px;
+}
+
+#categoryFilter,
+#sortSelect {
+    min-width: 150px;
+}
+
+/* Produktantal */
+#productCount {
+    margin-bottom: 15px;
+    color: #666;
+    font-size: 14px;
+}
+
+/* Produktrutnät */
+#productGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+/* Produktkort */
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    background-color: white;
+    transition: transform 0.2s;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.product-card h3 {
+    color: #333;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.product-card .price {
+    color: #e74c3c;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.product-card .category {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.product-card .description {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.4;
+}
