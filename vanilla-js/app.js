@@ -116,3 +116,31 @@ document.getElementById('categoryFilter').addEventListener('change', function(e)
     visaProdukter(visadeProdukter);
     uppdateraAntal();
 });
+
+// Sortering - körs när man väljer sorteringsalternativ
+document.getElementById('sortSelect').addEventListener('change', function(e) {
+    const sortValue = e.target.value;
+    
+    // Sortera baserat på valt alternativ
+    if (sortValue === 'price-asc') {
+        // Pris: Lägst först
+        visadeProdukter.sort(function(a, b) {
+            return a.pris - b.pris;
+        });
+    } else if (sortValue === 'price-desc') {
+        // Pris: Högst först
+        visadeProdukter.sort(function(a, b) {
+            return b.pris - a.pris;
+        });
+    } else if (sortValue === 'name') {
+        // Namn: A-Ö
+        visadeProdukter.sort(function(a, b) {
+            if (a.namn < b.namn) return -1;
+            if (a.namn > b.namn) return 1;
+            return 0;
+        });
+    }
+    
+    // Visa sorterade produkter
+    visaProdukter(visadeProdukter);
+});
