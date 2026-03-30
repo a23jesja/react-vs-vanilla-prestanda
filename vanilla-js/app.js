@@ -72,3 +72,18 @@ function uppdateraAntal() {
     const countDiv = document.getElementById('productCount');
     countDiv.textContent = 'Visar ' + visadeProdukter.length + ' av ' + allaProdukter.length + ' produkter';
 }
+
+// Sökfunktion - körs när man skriver i sökfältet
+document.getElementById('searchInput').addEventListener('input', function(e) {
+    const soktext = e.target.value.toLowerCase();
+    
+    // Filtrera produkter baserat på söktext
+    visadeProdukter = allaProdukter.filter(function(produkt) {
+        return produkt.namn.toLowerCase().includes(soktext) ||
+               produkt.beskrivning.toLowerCase().includes(soktext);
+    });
+    
+    // Visa filtrerade produkter
+    visaProdukter(visadeProdukter);
+    uppdateraAntal();
+});
