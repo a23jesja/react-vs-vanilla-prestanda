@@ -87,3 +87,32 @@ document.getElementById('searchInput').addEventListener('input', function(e) {
     visaProdukter(visadeProdukter);
     uppdateraAntal();
 });
+
+// Kategorifiltrering - körs när man väljer kategori
+document.getElementById('categoryFilter').addEventListener('change', function(e) {
+    const valdKategori = e.target.value;
+    const soktext = document.getElementById('searchInput').value.toLowerCase();
+    
+    // Filtrera baserat på kategori
+    if (valdKategori === '') {
+        // Alla kategorier
+        visadeProdukter = allaProdukter;
+    } else {
+        // Specifik kategori
+        visadeProdukter = allaProdukter.filter(function(produkt) {
+            return produkt.kategori === valdKategori;
+        });
+    }
+    
+    // Filtrera även på söktext om det finns någon
+    if (soktext !== '') {
+        visadeProdukter = visadeProdukter.filter(function(produkt) {
+            return produkt.namn.toLowerCase().includes(soktext) ||
+                   produkt.beskrivning.toLowerCase().includes(soktext);
+        });
+    }
+    
+    // Visa filtrerade produkter
+    visaProdukter(visadeProdukter);
+    uppdateraAntal();
+});
