@@ -6,6 +6,7 @@ function App() {
   const [allaProdukter, setAllaProdukter] = useState([]);
   const [visadeProdukter, setVisadeProdukter] = useState([]);
   const [soktext, setSoktext] = useState('');
+  const [valdKategori, setValdKategori] = useState('');
 
   // Ladda produkter när komponenten mountas
   useEffect(() => {
@@ -20,22 +21,36 @@ function App() {
       });
   }, []);
 
-  // Sökfunktion - körs när söktext ändras
+  // Filtrering körs när söktext eller kategori ändras
   useEffect(() => {
-    if (soktext === '') {
-      setVisadeProdukter(allaProdukter);
-    } else {
-      const filtrerade = allaProdukter.filter(produkt => 
+    let filtrerade = allaProdukter;
+
+    // Filtrera på kategori
+    if (valdKategori !== '') {
+      filtrerade = filtrerade.filter(produkt => 
+        produkt.kategori === valdKategori
+      );
+    }
+
+    // Filtrera på söktext
+    if (soktext !== '') {
+      filtrerade = filtrerade.filter(produkt => 
         produkt.namn.toLowerCase().includes(soktext.toLowerCase()) ||
         produkt.beskrivning.toLowerCase().includes(soktext.toLowerCase())
       );
-      setVisadeProdukter(filtrerade);
     }
-  }, [soktext, allaProdukter]);
+
+    setVisadeProdukter(filtrerade);
+  }, [soktext, valdKategori, allaProdukter]);
 
   // Hantera sökning
   const handleSearch = (e) => {
     setSoktext(e.target.value);
+  };
+
+  // Hantera kategorifiltrering
+  const handleCategoryChange = (e) => {
+    setValdKategori(e.target.value);
   };
 
   return (
@@ -49,7 +64,7 @@ function App() {
           value={soktext}
           onChange={handleSearch}
         />
-        <select>
+        <select value={valdKategori} onChange={handleCategoryChange}>
           <option value="">Alla kategorier</option>
           <option value="Elektronik">Elektronik</option>
           <option value="Kläder">Kläder</option>
