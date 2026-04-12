@@ -5,6 +5,7 @@ function App() {
   // State för produkter
   const [allaProdukter, setAllaProdukter] = useState([]);
   const [visadeProdukter, setVisadeProdukter] = useState([]);
+  const [soktext, setSoktext] = useState('');
 
   // Ladda produkter när komponenten mountas
   useEffect(() => {
@@ -19,12 +20,35 @@ function App() {
       });
   }, []);
 
+  // Sökfunktion - körs när söktext ändras
+  useEffect(() => {
+    if (soktext === '') {
+      setVisadeProdukter(allaProdukter);
+    } else {
+      const filtrerade = allaProdukter.filter(produkt => 
+        produkt.namn.toLowerCase().includes(soktext.toLowerCase()) ||
+        produkt.beskrivning.toLowerCase().includes(soktext.toLowerCase())
+      );
+      setVisadeProdukter(filtrerade);
+    }
+  }, [soktext, allaProdukter]);
+
+  // Hantera sökning
+  const handleSearch = (e) => {
+    setSoktext(e.target.value);
+  };
+
   return (
     <div className="container">
       <h1>Produktkatalog</h1>
       
       <div className="controls">
-        <input type="text" placeholder="Sök produkter..." />
+        <input 
+          type="text" 
+          placeholder="Sök produkter..." 
+          value={soktext}
+          onChange={handleSearch}
+        />
         <select>
           <option value="">Alla kategorier</option>
           <option value="Elektronik">Elektronik</option>
