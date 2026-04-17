@@ -7,6 +7,7 @@ function App() {
   const [visadeProdukter, setVisadeProdukter] = useState([]);
   const [soktext, setSoktext] = useState('');
   const [valdKategori, setValdKategori] = useState('');
+  const [sortering, setSortering] = useState('');
 
   // Ladda produkter när komponenten mountas
   useEffect(() => {
@@ -21,7 +22,7 @@ function App() {
       });
   }, []);
 
-  // Filtrering körs när söktext eller kategori ändras
+  // Filtrering och sortering
   useEffect(() => {
     let filtrerade = allaProdukter;
 
@@ -40,8 +41,21 @@ function App() {
       );
     }
 
+    // Sortera produkter
+    if (sortering === 'price-asc') {
+      filtrerade = [...filtrerade].sort((a, b) => a.pris - b.pris);
+    } else if (sortering === 'price-desc') {
+      filtrerade = [...filtrerade].sort((a, b) => b.pris - a.pris);
+    } else if (sortering === 'name') {
+      filtrerade = [...filtrerade].sort((a, b) => {
+        if (a.namn < b.namn) return -1;
+        if (a.namn > b.namn) return 1;
+        return 0;
+      });
+    }
+
     setVisadeProdukter(filtrerade);
-  }, [soktext, valdKategori, allaProdukter]);
+  }, [soktext, valdKategori, sortering, allaProdukter]);
 
   // Hantera sökning
   const handleSearch = (e) => {
@@ -51,6 +65,11 @@ function App() {
   // Hantera kategorifiltrering
   const handleCategoryChange = (e) => {
     setValdKategori(e.target.value);
+  };
+
+  // Hantera sortering
+  const handleSortChange = (e) => {
+    setSortering(e.target.value);
   };
 
   return (
@@ -72,7 +91,7 @@ function App() {
           <option value="Sport">Sport</option>
           <option value="Leksaker">Leksaker</option>
         </select>
-        <select>
+        <select value={sortering} onChange={handleSortChange}>
           <option value="">Sortera efter...</option>
           <option value="price-asc">Pris: Lägst först</option>
           <option value="price-desc">Pris: Högst först</option>
