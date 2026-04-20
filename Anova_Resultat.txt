@@ -1,0 +1,33 @@
+ANOVA-TEST: React vs Vanilla JavaScript
+
+1. Performance Score
+   Vanilla JS medelvärde: 100.00
+   React medelvärde: 94.40
+   F-statistik: 1176.0000
+   P-värde: 0.000000
+
+2. LCP (Largest Contentful Paint)
+   Vanilla JS medelvärde: 0.30 s
+   React medelvärde: 1.46 s
+   F-statistik: 976.6452
+   P-värde: 0.0000000000
+
+3. TBT (Total Blocking Time)
+   Vanilla JS medelvärde: 0.0 ms
+   React medelvärde: 28.0 ms
+   F-statistik: 126.0000
+   P-värde: 0.0000000015
+
+4. CLS (Cumulative Layout Shift)
+   Vanilla JS medelvärde: 0.0000
+   React medelvärde: 0.0028
+   F-statistik: 32.6667
+   P-värde: 0.0000202877
+
+5. Speed Index
+   Vanilla JS medelvärde: 0.22 s
+   React medelvärde: 0.93 s
+   F-statistik: 467.7216
+   P-värde: 0.0000000000
+
+Not: P-värde < 0.05 indikerar statistiskt signifikant skillnad
