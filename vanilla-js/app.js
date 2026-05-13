@@ -9,7 +9,7 @@ window.addEventListener('load', function() {
 
 // Funktion för att ladda produktdata från JSON
 function laddaProdukter() {
-    fetch('../testdata/products.json')
+    fetch('products-1000.json')
         .then(response => response.json())
         .then(data => {
             allaProdukter = data;
@@ -80,7 +80,7 @@ document.getElementById('searchInput').addEventListener('input', function(e) {
     // Filtrera produkter baserat på söktext
     visadeProdukter = allaProdukter.filter(function(produkt) {
         return produkt.namn.toLowerCase().includes(soktext) ||
-               produkt.beskrivning.toLowerCase().includes(soktext);
+        produkt.beskrivning.toLowerCase().includes(soktext);
     });
     
     // Visa filtrerade produkter
@@ -108,7 +108,7 @@ document.getElementById('categoryFilter').addEventListener('change', function(e)
     if (soktext !== '') {
         visadeProdukter = visadeProdukter.filter(function(produkt) {
             return produkt.namn.toLowerCase().includes(soktext) ||
-                   produkt.beskrivning.toLowerCase().includes(soktext);
+            produkt.beskrivning.toLowerCase().includes(soktext);
         });
     }
     
@@ -125,18 +125,18 @@ document.getElementById('sortSelect').addEventListener('change', function(e) {
     if (sortValue === 'price-asc') {
         // Pris: Lägst först
         visadeProdukter.sort(function(a, b) {
-            return a.pris - b.pris;
+            return a.price - b.price;
         });
     } else if (sortValue === 'price-desc') {
         // Pris: Högst först
         visadeProdukter.sort(function(a, b) {
-            return b.pris - a.pris;
+            return b.price - a.price;
         });
     } else if (sortValue === 'name') {
         // Namn: A-Ö
         visadeProdukter.sort(function(a, b) {
-            if (a.namn < b.namn) return -1;
-            if (a.namn > b.namn) return 1;
+            if (a.name < b.name) return -1;
+            if (a.name > b.name) return 1;
             return 0;
         });
     }
