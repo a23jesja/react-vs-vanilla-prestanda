@@ -11,7 +11,7 @@ function App() {
 
   // Ladda produkter när komponenten mountas
   useEffect(() => {
-    fetch('products-1000.json')
+    fetch('products-2000.json')
       .then(response => response.json())
       .then(data => {
         setAllaProdukter(data);

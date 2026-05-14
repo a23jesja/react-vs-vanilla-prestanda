@@ -9,7 +9,7 @@ window.addEventListener('load', function() {
 
 // Funktion för att ladda produktdata från JSON
 function laddaProdukter() {
-    fetch('products-1000.json')
+    fetch('products-2000.json')
         .then(response => response.json())
         .then(data => {
             allaProdukter = data;
