@@ -11,7 +11,7 @@ function App() {
 
   // Ladda produkter när komponenten mountas
   useEffect(() => {
-    fetch('products-2000.json')
+    fetch('/data/products-2000.json')
       .then(response => response.json())
       .then(data => {
         setAllaProdukter(data);
@@ -78,12 +78,13 @@ function App() {
       
       <div className="controls">
         <input 
-          type="text" 
+          type="text"
+          id="searchInput"
           placeholder="Sök produkter..." 
           value={soktext}
           onChange={handleSearch}
         />
-        <select value={valdKategori} onChange={handleCategoryChange}>
+        <select id="categoryFilter" value={valdKategori} onChange={handleCategoryChange}>
           <option value="">Alla kategorier</option>
           <option value="Elektronik">Elektronik</option>
           <option value="Kläder">Kläder</option>
@@ -91,7 +92,7 @@ function App() {
           <option value="Sport">Sport</option>
           <option value="Leksaker">Leksaker</option>
         </select>
-        <select value={sortering} onChange={handleSortChange}>
+        <select id="sortSelect" value={sortering} onChange={handleSortChange}>
           <option value="">Sortera efter...</option>
           <option value="price-asc">Pris: Lägst först</option>
           <option value="price-desc">Pris: Högst först</option>
