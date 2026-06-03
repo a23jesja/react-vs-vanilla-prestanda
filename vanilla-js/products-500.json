@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "namn": "Jeans 1",
+    "pris": 6619,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 1."
+  },
+  {
+    "id": 2,
+    "namn": "Skidor 2",
+    "pris": 7920,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 2."
+  },
+  {
+    "id": 3,
+    "namn": "Skor 3",
+    "pris": 602,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 3."
+  },
+  {
+    "id": 4,
+    "namn": "Hörlurar 4",
+    "pris": 7053,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 4."
+  },
+  {
+    "id": 5,
+    "namn": "Cykel 5",
+    "pris": 9809,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 5."
+  },
+  {
+    "id": 6,
+    "namn": "Skor 6",
+    "pris": 1840,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 6."
+  },
+  {
+    "id": 7,
+    "namn": "Skärm 7",
+    "pris": 6598,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 7."
+  },
+  {
+    "id": 8,
+    "namn": "Kruka 8",
+    "pris": 8306,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 8."
+  },
+  {
+    "id": 9,
+    "namn": "Bil 9",
+    "pris": 3996,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 9."
+  },
+  {
+    "id": 10,
+    "namn": "Skor 10",
+    "pris": 9965,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 10."
+  },
+  {
+    "id": 11,
+    "namn": "Tennisracket 11",
+    "pris": 8427,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 11."
+  },
+  {
+    "id": 12,
+    "namn": "Simglasögon 12",
+    "pris": 6192,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 12."
+  },
+  {
+    "id": 13,
+    "namn": "Fotboll 13",
+    "pris": 188,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 13."
+  },
+  {
+    "id": 14,
+    "namn": "Pussel 14",
+    "pris": 6882,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 14."
+  },
+  {
+    "id": 15,
+    "namn": "Jeans 15",
+    "pris": 9731,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 15."
+  },
+  {
+    "id": 16,
+    "namn": "Telefon 16",
+    "pris": 4156,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 16."
+  },
+  {
+    "id": 17,
+    "namn": "Hantel 17",
+    "pris": 3136,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 17."
+  },
+  {
+    "id": 18,
+    "namn": "Mössa 18",
+    "pris": 2579,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 18."
+  },
+  {
+    "id": 19,
+    "namn": "Cykel 19",
+    "pris": 8483,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 19."
+  },
+  {
+    "id": 20,
+    "namn": "Fotboll 20",
+    "pris": 7765,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 20."
+  },
+  {
+    "id": 21,
+    "namn": "Bord 21",
+    "pris": 7458,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 21."
+  },
+  {
+    "id": 22,
+    "namn": "Löparskor 22",
+    "pris": 907,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 22."
+  },
+  {
+    "id": 23,
+    "namn": "Simglasögon 23",
+    "pris": 604,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 23."
+  },
+  {
+    "id": 24,
+    "namn": "Verktyg 24",
+    "pris": 9614,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 24."
+  },
+  {
+    "id": 25,
+    "namn": "Kamera 25",
+    "pris": 535,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 25."
+  },
+  {
+    "id": 26,
+    "namn": "Klossar 26",
+    "pris": 8172,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 26."
+  },
+  {
+    "id": 27,
+    "namn": "Hantel 27",
+    "pris": 4604,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 27."
+  },
+  {
+    "id": 28,
+    "namn": "Jeans 28",
+    "pris": 622,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 28."
+  },
+  {
+    "id": 29,
+    "namn": "Mössa 29",
+    "pris": 4788,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 29."
+  },
+  {
+    "id": 30,
+    "namn": "Vas 30",
+    "pris": 1368,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 30."
+  },
+  {
+    "id": 31,
+    "namn": "Spel 31",
+    "pris": 2497,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 31."
+  },
+  {
+    "id": 32,
+    "namn": "Pussel 32",
+    "pris": 9277,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 32."
+  },
+  {
+    "id": 33,
+    "namn": "Kamera 33",
+    "pris": 1592,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 33."
+  },
+  {
+    "id": 34,
+    "namn": "Mus 34",
+    "pris": 6599,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 34."
+  },
+  {
+    "id": 35,
+    "namn": "Kamera 35",
+    "pris": 7684,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 35."
+  },
+  {
+    "id": 36,
+    "namn": "Jacka 36",
+    "pris": 6153,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 36."
+  },
+  {
+    "id": 37,
+    "namn": "Filt 37",
+    "pris": 2612,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 37."
+  },
+  {
+    "id": 38,
+    "namn": "Kamera 38",
+    "pris": 9293,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 38."
+  },
+  {
+    "id": 39,
+    "namn": "Docka 39",
+    "pris": 6308,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 39."
+  },
+  {
+    "id": 40,
+    "namn": "Byxor 40",
+    "pris": 8647,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 40."
+  },
+  {
+    "id": 41,
+    "namn": "Löparskor 41",
+    "pris": 2955,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 41."
+  },
+  {
+    "id": 42,
+    "namn": "Lampa 42",
+    "pris": 555,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 42."
+  },
+  {
+    "id": 43,
+    "namn": "Vas 43",
+    "pris": 5909,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 43."
+  },
+  {
+    "id": 44,
+    "namn": "Löparskor 44",
+    "pris": 7256,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 44."
+  },
+  {
+    "id": 45,
+    "namn": "Skidor 45",
+    "pris": 2741,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 45."
+  },
+  {
+    "id": 46,
+    "namn": "Skärm 46",
+    "pris": 9512,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 46."
+  },
+  {
+    "id": 47,
+    "namn": "Skor 47",
+    "pris": 2519,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 47."
+  },
+  {
+    "id": 48,
+    "namn": "Verktyg 48",
+    "pris": 550,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 48."
+  },
+  {
+    "id": 49,
+    "namn": "Yogamatta 49",
+    "pris": 977,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 49."
+  },
+  {
+    "id": 50,
+    "namn": "Cykel 50",
+    "pris": 6957,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 50."
+  },
+  {
+    "id": 51,
+    "namn": "Klossar 51",
+    "pris": 3172,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 51."
+  },
+  {
+    "id": 52,
+    "namn": "Cykel 52",
+    "pris": 3969,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 52."
+  },
+  {
+    "id": 53,
+    "namn": "Byxor 53",
+    "pris": 8243,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 53."
+  },
+  {
+    "id": 54,
+    "namn": "Lampa 54",
+    "pris": 2775,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 54."
+  },
+  {
+    "id": 55,
+    "namn": "Klossar 55",
+    "pris": 2569,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 55."
+  },
+  {
+    "id": 56,
+    "namn": "Hörlurar 56",
+    "pris": 4758,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 56."
+  },
+  {
+    "id": 57,
+    "namn": "Yogamatta 57",
+    "pris": 5701,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 57."
+  },
+  {
+    "id": 58,
+    "namn": "Högtalare 58",
+    "pris": 3840,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 58."
+  },
+  {
+    "id": 59,
+    "namn": "Bord 59",
+    "pris": 7499,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 59."
+  },
+  {
+    "id": 60,
+    "namn": "Tröja 60",
+    "pris": 2896,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 60."
+  },
+  {
+    "id": 61,
+    "namn": "Löparskor 61",
+    "pris": 9667,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 61."
+  },
+  {
+    "id": 62,
+    "namn": "Kudde 62",
+    "pris": 4350,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 62."
+  },
+  {
+    "id": 63,
+    "namn": "Kudde 63",
+    "pris": 8764,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 63."
+  },
+  {
+    "id": 64,
+    "namn": "T-shirt 64",
+    "pris": 8074,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 64."
+  },
+  {
+    "id": 65,
+    "namn": "Drakar 65",
+    "pris": 7871,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 65."
+  },
+  {
+    "id": 66,
+    "namn": "Klossar 66",
+    "pris": 8372,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 66."
+  },
+  {
+    "id": 67,
+    "namn": "Teddybjörn 67",
+    "pris": 7741,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 67."
+  },
+  {
+    "id": 68,
+    "namn": "Mus 68",
+    "pris": 4508,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 68."
+  },
+  {
+    "id": 69,
+    "namn": "Teddybjörn 69",
+    "pris": 592,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 69."
+  },
+  {
+    "id": 70,
+    "namn": "Lampa 70",
+    "pris": 8707,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 70."
+  },
+  {
+    "id": 71,
+    "namn": "Tangentbord 71",
+    "pris": 5865,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 71."
+  },
+  {
+    "id": 72,
+    "namn": "Tennisracket 72",
+    "pris": 7073,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 72."
+  },
+  {
+    "id": 73,
+    "namn": "Klossar 73",
+    "pris": 7000,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 73."
+  },
+  {
+    "id": 74,
+    "namn": "Högtalare 74",
+    "pris": 3336,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 74."
+  },
+  {
+    "id": 75,
+    "namn": "Spel 75",
+    "pris": 8259,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 75."
+  },
+  {
+    "id": 76,
+    "namn": "Kamera 76",
+    "pris": 6845,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 76."
+  },
+  {
+    "id": 77,
+    "namn": "Kruka 77",
+    "pris": 1985,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 77."
+  },
+  {
+    "id": 78,
+    "namn": "Kruka 78",
+    "pris": 3477,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 78."
+  },
+  {
+    "id": 79,
+    "namn": "Mössa 79",
+    "pris": 7153,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 79."
+  },
+  {
+    "id": 80,
+    "namn": "Högtalare 80",
+    "pris": 9361,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 80."
+  },
+  {
+    "id": 81,
+    "namn": "Fotboll 81",
+    "pris": 6866,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 81."
+  },
+  {
+    "id": 82,
+    "namn": "Drakar 82",
+    "pris": 612,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 82."
+  },
+  {
+    "id": 83,
+    "namn": "Yogamatta 83",
+    "pris": 3011,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 83."
+  },
+  {
+    "id": 84,
+    "namn": "Bord 84",
+    "pris": 1663,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 84."
+  },
+  {
+    "id": 85,
+    "namn": "Spel 85",
+    "pris": 7644,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 85."
+  },
+  {
+    "id": 86,
+    "namn": "Skärm 86",
+    "pris": 8033,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 86."
+  },
+  {
+    "id": 87,
+    "namn": "Teddybjörn 87",
+    "pris": 1654,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 87."
+  },
+  {
+    "id": 88,
+    "namn": "Klänning 88",
+    "pris": 1027,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 88."
+  },
+  {
+    "id": 89,
+    "namn": "Cykel 89",
+    "pris": 5559,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 89."
+  },
+  {
+    "id": 90,
+    "namn": "Skor 90",
+    "pris": 8959,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 90."
+  },
+  {
+    "id": 91,
+    "namn": "Pussel 91",
+    "pris": 2113,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 91."
+  },
+  {
+    "id": 92,
+    "namn": "Byxor 92",
+    "pris": 5647,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 92."
+  },
+  {
+    "id": 93,
+    "namn": "Simglasögon 93",
+    "pris": 4067,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 93."
+  },
+  {
+    "id": 94,
+    "namn": "Tröja 94",
+    "pris": 8375,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 94."
+  },
+  {
+    "id": 95,
+    "namn": "Filt 95",
+    "pris": 6255,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 95."
+  },
+  {
+    "id": 96,
+    "namn": "Yogamatta 96",
+    "pris": 8941,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 96."
+  },
+  {
+    "id": 97,
+    "namn": "Kamera 97",
+    "pris": 7533,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 97."
+  },
+  {
+    "id": 98,
+    "namn": "Kruka 98",
+    "pris": 9876,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 98."
+  },
+  {
+    "id": 99,
+    "namn": "Kudde 99",
+    "pris": 378,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 99."
+  },
+  {
+    "id": 100,
+    "namn": "Stol 100",
+    "pris": 3517,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 100."
+  },
+  {
+    "id": 101,
+    "namn": "Hantel 101",
+    "pris": 3155,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 101."
+  },
+  {
+    "id": 102,
+    "namn": "Bil 102",
+    "pris": 4867,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 102."
+  },
+  {
+    "id": 103,
+    "namn": "Mus 103",
+    "pris": 6438,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 103."
+  },
+  {
+    "id": 104,
+    "namn": "Kamera 104",
+    "pris": 1492,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 104."
+  },
+  {
+    "id": 105,
+    "namn": "Fotboll 105",
+    "pris": 907,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 105."
+  },
+  {
+    "id": 106,
+    "namn": "Klossar 106",
+    "pris": 6047,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 106."
+  },
+  {
+    "id": 107,
+    "namn": "Mus 107",
+    "pris": 9916,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 107."
+  },
+  {
+    "id": 108,
+    "namn": "Skor 108",
+    "pris": 4898,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 108."
+  },
+  {
+    "id": 109,
+    "namn": "Tangentbord 109",
+    "pris": 7925,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 109."
+  },
+  {
+    "id": 110,
+    "namn": "Kudde 110",
+    "pris": 2272,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 110."
+  },
+  {
+    "id": 111,
+    "namn": "Byxor 111",
+    "pris": 2050,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 111."
+  },
+  {
+    "id": 112,
+    "namn": "Högtalare 112",
+    "pris": 8915,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 112."
+  },
+  {
+    "id": 113,
+    "namn": "Tröja 113",
+    "pris": 8754,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 113."
+  },
+  {
+    "id": 114,
+    "namn": "Simglasögon 114",
+    "pris": 5631,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 114."
+  },
+  {
+    "id": 115,
+    "namn": "Mus 115",
+    "pris": 8546,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 115."
+  },
+  {
+    "id": 116,
+    "namn": "Jacka 116",
+    "pris": 5973,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 116."
+  },
+  {
+    "id": 117,
+    "namn": "Skidor 117",
+    "pris": 9603,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 117."
+  },
+  {
+    "id": 118,
+    "namn": "Kamera 118",
+    "pris": 4713,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 118."
+  },
+  {
+    "id": 119,
+    "namn": "Hantel 119",
+    "pris": 2151,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 119."
+  },
+  {
+    "id": 120,
+    "namn": "Klänning 120",
+    "pris": 4848,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 120."
+  },
+  {
+    "id": 121,
+    "namn": "Skidor 121",
+    "pris": 1833,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 121."
+  },
+  {
+    "id": 122,
+    "namn": "Färgpennor 122",
+    "pris": 5213,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 122."
+  },
+  {
+    "id": 123,
+    "namn": "Cykel 123",
+    "pris": 4191,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 123."
+  },
+  {
+    "id": 124,
+    "namn": "Kruka 124",
+    "pris": 1959,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 124."
+  },
+  {
+    "id": 125,
+    "namn": "Pussel 125",
+    "pris": 484,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 125."
+  },
+  {
+    "id": 126,
+    "namn": "Kudde 126",
+    "pris": 2594,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 126."
+  },
+  {
+    "id": 127,
+    "namn": "Skor 127",
+    "pris": 7609,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 127."
+  },
+  {
+    "id": 128,
+    "namn": "Högtalare 128",
+    "pris": 7980,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 128."
+  },
+  {
+    "id": 129,
+    "namn": "Hörlurar 129",
+    "pris": 4336,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 129."
+  },
+  {
+    "id": 130,
+    "namn": "Pussel 130",
+    "pris": 6775,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 130."
+  },
+  {
+    "id": 131,
+    "namn": "Laptop 131",
+    "pris": 4411,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 131."
+  },
+  {
+    "id": 132,
+    "namn": "Klossar 132",
+    "pris": 4813,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 132."
+  },
+  {
+    "id": 133,
+    "namn": "Docka 133",
+    "pris": 9789,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 133."
+  },
+  {
+    "id": 134,
+    "namn": "Pussel 134",
+    "pris": 7932,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 134."
+  },
+  {
+    "id": 135,
+    "namn": "Yogamatta 135",
+    "pris": 702,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 135."
+  },
+  {
+    "id": 136,
+    "namn": "Laptop 136",
+    "pris": 269,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 136."
+  },
+  {
+    "id": 137,
+    "namn": "Lampa 137",
+    "pris": 5363,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 137."
+  },
+  {
+    "id": 138,
+    "namn": "Stol 138",
+    "pris": 2263,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 138."
+  },
+  {
+    "id": 139,
+    "namn": "Jeans 139",
+    "pris": 6120,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 139."
+  },
+  {
+    "id": 140,
+    "namn": "Stol 140",
+    "pris": 724,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 140."
+  },
+  {
+    "id": 141,
+    "namn": "Stol 141",
+    "pris": 1755,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 141."
+  },
+  {
+    "id": 142,
+    "namn": "Färgpennor 142",
+    "pris": 5468,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 142."
+  },
+  {
+    "id": 143,
+    "namn": "Bord 143",
+    "pris": 7304,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 143."
+  },
+  {
+    "id": 144,
+    "namn": "Bil 144",
+    "pris": 633,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 144."
+  },
+  {
+    "id": 145,
+    "namn": "Löparskor 145",
+    "pris": 5521,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 145."
+  },
+  {
+    "id": 146,
+    "namn": "Drakar 146",
+    "pris": 8214,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 146."
+  },
+  {
+    "id": 147,
+    "namn": "Bil 147",
+    "pris": 8076,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 147."
+  },
+  {
+    "id": 148,
+    "namn": "Telefon 148",
+    "pris": 5605,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 148."
+  },
+  {
+    "id": 149,
+    "namn": "Tröja 149",
+    "pris": 3754,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 149."
+  },
+  {
+    "id": 150,
+    "namn": "Hörlurar 150",
+    "pris": 3928,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 150."
+  },
+  {
+    "id": 151,
+    "namn": "Pussel 151",
+    "pris": 5524,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 151."
+  },
+  {
+    "id": 152,
+    "namn": "Jacka 152",
+    "pris": 3633,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 152."
+  },
+  {
+    "id": 153,
+    "namn": "Laptop 153",
+    "pris": 1675,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 153."
+  },
+  {
+    "id": 154,
+    "namn": "Stol 154",
+    "pris": 1018,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 154."
+  },
+  {
+    "id": 155,
+    "namn": "T-shirt 155",
+    "pris": 5595,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 155."
+  },
+  {
+    "id": 156,
+    "namn": "Teddybjörn 156",
+    "pris": 2416,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 156."
+  },
+  {
+    "id": 157,
+    "namn": "Färgpennor 157",
+    "pris": 4242,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 157."
+  },
+  {
+    "id": 158,
+    "namn": "Jeans 158",
+    "pris": 2686,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 158."
+  },
+  {
+    "id": 159,
+    "namn": "Skidor 159",
+    "pris": 1214,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 159."
+  },
+  {
+    "id": 160,
+    "namn": "Tröja 160",
+    "pris": 7023,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 160."
+  },
+  {
+    "id": 161,
+    "namn": "Bil 161",
+    "pris": 4785,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 161."
+  },
+  {
+    "id": 162,
+    "namn": "Tröja 162",
+    "pris": 2405,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 162."
+  },
+  {
+    "id": 163,
+    "namn": "Jacka 163",
+    "pris": 2618,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 163."
+  },
+  {
+    "id": 164,
+    "namn": "Mössa 164",
+    "pris": 8209,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 164."
+  },
+  {
+    "id": 165,
+    "namn": "Mus 165",
+    "pris": 861,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 165."
+  },
+  {
+    "id": 166,
+    "namn": "Löparskor 166",
+    "pris": 5091,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 166."
+  },
+  {
+    "id": 167,
+    "namn": "Yogamatta 167",
+    "pris": 6830,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 167."
+  },
+  {
+    "id": 168,
+    "namn": "Mössa 168",
+    "pris": 7635,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 168."
+  },
+  {
+    "id": 169,
+    "namn": "Laptop 169",
+    "pris": 2045,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 169."
+  },
+  {
+    "id": 170,
+    "namn": "Tennisracket 170",
+    "pris": 9087,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 170."
+  },
+  {
+    "id": 171,
+    "namn": "Tröja 171",
+    "pris": 8340,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 171."
+  },
+  {
+    "id": 172,
+    "namn": "Hantel 172",
+    "pris": 8687,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 172."
+  },
+  {
+    "id": 173,
+    "namn": "Klänning 173",
+    "pris": 3820,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 173."
+  },
+  {
+    "id": 174,
+    "namn": "Yogamatta 174",
+    "pris": 4844,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 174."
+  },
+  {
+    "id": 175,
+    "namn": "Docka 175",
+    "pris": 1249,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 175."
+  },
+  {
+    "id": 176,
+    "namn": "Tennisracket 176",
+    "pris": 9510,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 176."
+  },
+  {
+    "id": 177,
+    "namn": "Jacka 177",
+    "pris": 6485,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 177."
+  },
+  {
+    "id": 178,
+    "namn": "Klänning 178",
+    "pris": 8592,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 178."
+  },
+  {
+    "id": 179,
+    "namn": "Verktyg 179",
+    "pris": 4695,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 179."
+  },
+  {
+    "id": 180,
+    "namn": "Verktyg 180",
+    "pris": 7521,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 180."
+  },
+  {
+    "id": 181,
+    "namn": "Yogamatta 181",
+    "pris": 8483,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 181."
+  },
+  {
+    "id": 182,
+    "namn": "Bord 182",
+    "pris": 4999,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 182."
+  },
+  {
+    "id": 183,
+    "namn": "Docka 183",
+    "pris": 9991,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 183."
+  },
+  {
+    "id": 184,
+    "namn": "Teddybjörn 184",
+    "pris": 3832,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 184."
+  },
+  {
+    "id": 185,
+    "namn": "Tangentbord 185",
+    "pris": 2063,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 185."
+  },
+  {
+    "id": 186,
+    "namn": "Mus 186",
+    "pris": 3284,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 186."
+  },
+  {
+    "id": 187,
+    "namn": "Verktyg 187",
+    "pris": 5011,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 187."
+  },
+  {
+    "id": 188,
+    "namn": "Jeans 188",
+    "pris": 2686,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 188."
+  },
+  {
+    "id": 189,
+    "namn": "Fotboll 189",
+    "pris": 2623,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 189."
+  },
+  {
+    "id": 190,
+    "namn": "Skidor 190",
+    "pris": 1965,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 190."
+  },
+  {
+    "id": 191,
+    "namn": "Vas 191",
+    "pris": 4658,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 191."
+  },
+  {
+    "id": 192,
+    "namn": "Jacka 192",
+    "pris": 5865,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 192."
+  },
+  {
+    "id": 193,
+    "namn": "Teddybjörn 193",
+    "pris": 5263,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 193."
+  },
+  {
+    "id": 194,
+    "namn": "Skor 194",
+    "pris": 2798,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 194."
+  },
+  {
+    "id": 195,
+    "namn": "Byxor 195",
+    "pris": 9895,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 195."
+  },
+  {
+    "id": 196,
+    "namn": "Mus 196",
+    "pris": 5711,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 196."
+  },
+  {
+    "id": 197,
+    "namn": "Hantel 197",
+    "pris": 9042,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 197."
+  },
+  {
+    "id": 198,
+    "namn": "Mus 198",
+    "pris": 3581,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 198."
+  },
+  {
+    "id": 199,
+    "namn": "Cykel 199",
+    "pris": 3210,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 199."
+  },
+  {
+    "id": 200,
+    "namn": "Simglasögon 200",
+    "pris": 5384,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 200."
+  },
+  {
+    "id": 201,
+    "namn": "Högtalare 201",
+    "pris": 7201,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 201."
+  },
+  {
+    "id": 202,
+    "namn": "Vas 202",
+    "pris": 7124,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 202."
+  },
+  {
+    "id": 203,
+    "namn": "Verktyg 203",
+    "pris": 5021,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 203."
+  },
+  {
+    "id": 204,
+    "namn": "Kamera 204",
+    "pris": 3834,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 204."
+  },
+  {
+    "id": 205,
+    "namn": "Klossar 205",
+    "pris": 6823,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 205."
+  },
+  {
+    "id": 206,
+    "namn": "Laptop 206",
+    "pris": 6290,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 206."
+  },
+  {
+    "id": 207,
+    "namn": "Drakar 207",
+    "pris": 9480,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 207."
+  },
+  {
+    "id": 208,
+    "namn": "Simglasögon 208",
+    "pris": 1288,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 208."
+  },
+  {
+    "id": 209,
+    "namn": "Tennisracket 209",
+    "pris": 6645,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 209."
+  },
+  {
+    "id": 210,
+    "namn": "Tangentbord 210",
+    "pris": 1637,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 210."
+  },
+  {
+    "id": 211,
+    "namn": "Kruka 211",
+    "pris": 7544,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 211."
+  },
+  {
+    "id": 212,
+    "namn": "Kudde 212",
+    "pris": 4181,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 212."
+  },
+  {
+    "id": 213,
+    "namn": "Bord 213",
+    "pris": 1163,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 213."
+  },
+  {
+    "id": 214,
+    "namn": "Hörlurar 214",
+    "pris": 6598,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 214."
+  },
+  {
+    "id": 215,
+    "namn": "Byxor 215",
+    "pris": 6394,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 215."
+  },
+  {
+    "id": 216,
+    "namn": "Hantel 216",
+    "pris": 2999,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 216."
+  },
+  {
+    "id": 217,
+    "namn": "Spel 217",
+    "pris": 827,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 217."
+  },
+  {
+    "id": 218,
+    "namn": "Hantel 218",
+    "pris": 2008,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 218."
+  },
+  {
+    "id": 219,
+    "namn": "Vas 219",
+    "pris": 3792,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 219."
+  },
+  {
+    "id": 220,
+    "namn": "Högtalare 220",
+    "pris": 5572,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 220."
+  },
+  {
+    "id": 221,
+    "namn": "Klänning 221",
+    "pris": 7995,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 221."
+  },
+  {
+    "id": 222,
+    "namn": "Kamera 222",
+    "pris": 6673,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 222."
+  },
+  {
+    "id": 223,
+    "namn": "Byxor 223",
+    "pris": 406,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 223."
+  },
+  {
+    "id": 224,
+    "namn": "Bord 224",
+    "pris": 544,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 224."
+  },
+  {
+    "id": 225,
+    "namn": "Simglasögon 225",
+    "pris": 3152,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 225."
+  },
+  {
+    "id": 226,
+    "namn": "Yogamatta 226",
+    "pris": 8943,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 226."
+  },
+  {
+    "id": 227,
+    "namn": "Färgpennor 227",
+    "pris": 7989,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 227."
+  },
+  {
+    "id": 228,
+    "namn": "Mössa 228",
+    "pris": 7059,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 228."
+  },
+  {
+    "id": 229,
+    "namn": "Verktyg 229",
+    "pris": 1967,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 229."
+  },
+  {
+    "id": 230,
+    "namn": "Skidor 230",
+    "pris": 6904,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 230."
+  },
+  {
+    "id": 231,
+    "namn": "Klossar 231",
+    "pris": 4618,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 231."
+  },
+  {
+    "id": 232,
+    "namn": "Byxor 232",
+    "pris": 8591,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 232."
+  },
+  {
+    "id": 233,
+    "namn": "Klossar 233",
+    "pris": 2952,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 233."
+  },
+  {
+    "id": 234,
+    "namn": "Kruka 234",
+    "pris": 6710,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 234."
+  },
+  {
+    "id": 235,
+    "namn": "Telefon 235",
+    "pris": 821,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 235."
+  },
+  {
+    "id": 236,
+    "namn": "Tennisracket 236",
+    "pris": 2845,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 236."
+  },
+  {
+    "id": 237,
+    "namn": "Klänning 237",
+    "pris": 6870,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 237."
+  },
+  {
+    "id": 238,
+    "namn": "Fotboll 238",
+    "pris": 323,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 238."
+  },
+  {
+    "id": 239,
+    "namn": "Verktyg 239",
+    "pris": 1972,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 239."
+  },
+  {
+    "id": 240,
+    "namn": "Pussel 240",
+    "pris": 4477,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 240."
+  },
+  {
+    "id": 241,
+    "namn": "Hantel 241",
+    "pris": 9134,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 241."
+  },
+  {
+    "id": 242,
+    "namn": "Skärm 242",
+    "pris": 5862,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 242."
+  },
+  {
+    "id": 243,
+    "namn": "Verktyg 243",
+    "pris": 8262,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 243."
+  },
+  {
+    "id": 244,
+    "namn": "Spel 244",
+    "pris": 6318,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 244."
+  },
+  {
+    "id": 245,
+    "namn": "Klänning 245",
+    "pris": 6906,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 245."
+  },
+  {
+    "id": 246,
+    "namn": "Klossar 246",
+    "pris": 7906,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 246."
+  },
+  {
+    "id": 247,
+    "namn": "Fotboll 247",
+    "pris": 2835,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 247."
+  },
+  {
+    "id": 248,
+    "namn": "Verktyg 248",
+    "pris": 4539,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 248."
+  },
+  {
+    "id": 249,
+    "namn": "Mus 249",
+    "pris": 5646,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 249."
+  },
+  {
+    "id": 250,
+    "namn": "Klossar 250",
+    "pris": 1137,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 250."
+  },
+  {
+    "id": 251,
+    "namn": "Tröja 251",
+    "pris": 8319,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 251."
+  },
+  {
+    "id": 252,
+    "namn": "Pussel 252",
+    "pris": 2222,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 252."
+  },
+  {
+    "id": 253,
+    "namn": "Docka 253",
+    "pris": 4132,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 253."
+  },
+  {
+    "id": 254,
+    "namn": "Klossar 254",
+    "pris": 8121,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 254."
+  },
+  {
+    "id": 255,
+    "namn": "Kruka 255",
+    "pris": 2886,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 255."
+  },
+  {
+    "id": 256,
+    "namn": "Cykel 256",
+    "pris": 7243,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 256."
+  },
+  {
+    "id": 257,
+    "namn": "Fotboll 257",
+    "pris": 4452,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 257."
+  },
+  {
+    "id": 258,
+    "namn": "Fotboll 258",
+    "pris": 4157,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 258."
+  },
+  {
+    "id": 259,
+    "namn": "Kudde 259",
+    "pris": 1822,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 259."
+  },
+  {
+    "id": 260,
+    "namn": "Högtalare 260",
+    "pris": 5916,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 260."
+  },
+  {
+    "id": 261,
+    "namn": "Stol 261",
+    "pris": 9730,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 261."
+  },
+  {
+    "id": 262,
+    "namn": "Högtalare 262",
+    "pris": 1107,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 262."
+  },
+  {
+    "id": 263,
+    "namn": "T-shirt 263",
+    "pris": 2193,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 263."
+  },
+  {
+    "id": 264,
+    "namn": "Jeans 264",
+    "pris": 8602,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 264."
+  },
+  {
+    "id": 265,
+    "namn": "Löparskor 265",
+    "pris": 234,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 265."
+  },
+  {
+    "id": 266,
+    "namn": "Mössa 266",
+    "pris": 970,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 266."
+  },
+  {
+    "id": 267,
+    "namn": "Löparskor 267",
+    "pris": 4411,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 267."
+  },
+  {
+    "id": 268,
+    "namn": "Klänning 268",
+    "pris": 1646,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 268."
+  },
+  {
+    "id": 269,
+    "namn": "Drakar 269",
+    "pris": 8801,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 269."
+  },
+  {
+    "id": 270,
+    "namn": "Löparskor 270",
+    "pris": 2935,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 270."
+  },
+  {
+    "id": 271,
+    "namn": "Simglasögon 271",
+    "pris": 6827,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 271."
+  },
+  {
+    "id": 272,
+    "namn": "Kamera 272",
+    "pris": 325,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 272."
+  },
+  {
+    "id": 273,
+    "namn": "Mus 273",
+    "pris": 6014,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 273."
+  },
+  {
+    "id": 274,
+    "namn": "Bord 274",
+    "pris": 2943,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 274."
+  },
+  {
+    "id": 275,
+    "namn": "Jeans 275",
+    "pris": 3843,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 275."
+  },
+  {
+    "id": 276,
+    "namn": "Laptop 276",
+    "pris": 3545,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 276."
+  },
+  {
+    "id": 277,
+    "namn": "Hantel 277",
+    "pris": 9170,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 277."
+  },
+  {
+    "id": 278,
+    "namn": "Klossar 278",
+    "pris": 4329,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 278."
+  },
+  {
+    "id": 279,
+    "namn": "Drakar 279",
+    "pris": 1100,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 279."
+  },
+  {
+    "id": 280,
+    "namn": "Lampa 280",
+    "pris": 9413,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 280."
+  },
+  {
+    "id": 281,
+    "namn": "Skidor 281",
+    "pris": 1442,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 281."
+  },
+  {
+    "id": 282,
+    "namn": "Lampa 282",
+    "pris": 9282,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 282."
+  },
+  {
+    "id": 283,
+    "namn": "Kudde 283",
+    "pris": 6427,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 283."
+  },
+  {
+    "id": 284,
+    "namn": "Drakar 284",
+    "pris": 4396,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 284."
+  },
+  {
+    "id": 285,
+    "namn": "Docka 285",
+    "pris": 2702,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 285."
+  },
+  {
+    "id": 286,
+    "namn": "Klossar 286",
+    "pris": 8261,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 286."
+  },
+  {
+    "id": 287,
+    "namn": "Skidor 287",
+    "pris": 7488,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 287."
+  },
+  {
+    "id": 288,
+    "namn": "Filt 288",
+    "pris": 7632,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 288."
+  },
+  {
+    "id": 289,
+    "namn": "Simglasögon 289",
+    "pris": 6457,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 289."
+  },
+  {
+    "id": 290,
+    "namn": "Löparskor 290",
+    "pris": 8721,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 290."
+  },
+  {
+    "id": 291,
+    "namn": "Teddybjörn 291",
+    "pris": 5181,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 291."
+  },
+  {
+    "id": 292,
+    "namn": "Mus 292",
+    "pris": 5717,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 292."
+  },
+  {
+    "id": 293,
+    "namn": "Telefon 293",
+    "pris": 4532,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 293."
+  },
+  {
+    "id": 294,
+    "namn": "Skärm 294",
+    "pris": 373,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 294."
+  },
+  {
+    "id": 295,
+    "namn": "Kudde 295",
+    "pris": 9307,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 295."
+  },
+  {
+    "id": 296,
+    "namn": "Skärm 296",
+    "pris": 213,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 296."
+  },
+  {
+    "id": 297,
+    "namn": "Färgpennor 297",
+    "pris": 3733,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 297."
+  },
+  {
+    "id": 298,
+    "namn": "Cykel 298",
+    "pris": 756,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 298."
+  },
+  {
+    "id": 299,
+    "namn": "Verktyg 299",
+    "pris": 4898,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 299."
+  },
+  {
+    "id": 300,
+    "namn": "Mus 300",
+    "pris": 1439,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 300."
+  },
+  {
+    "id": 301,
+    "namn": "Tröja 301",
+    "pris": 5545,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 301."
+  },
+  {
+    "id": 302,
+    "namn": "Skidor 302",
+    "pris": 2832,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 302."
+  },
+  {
+    "id": 303,
+    "namn": "Skor 303",
+    "pris": 3848,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 303."
+  },
+  {
+    "id": 304,
+    "namn": "Kamera 304",
+    "pris": 7260,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 304."
+  },
+  {
+    "id": 305,
+    "namn": "Hantel 305",
+    "pris": 602,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 305."
+  },
+  {
+    "id": 306,
+    "namn": "Jeans 306",
+    "pris": 4376,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 306."
+  },
+  {
+    "id": 307,
+    "namn": "Färgpennor 307",
+    "pris": 7456,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 307."
+  },
+  {
+    "id": 308,
+    "namn": "Klossar 308",
+    "pris": 105,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 308."
+  },
+  {
+    "id": 309,
+    "namn": "Skor 309",
+    "pris": 9818,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 309."
+  },
+  {
+    "id": 310,
+    "namn": "Drakar 310",
+    "pris": 8979,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 310."
+  },
+  {
+    "id": 311,
+    "namn": "Bil 311",
+    "pris": 6400,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 311."
+  },
+  {
+    "id": 312,
+    "namn": "Pussel 312",
+    "pris": 3585,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 312."
+  },
+  {
+    "id": 313,
+    "namn": "Tangentbord 313",
+    "pris": 3289,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 313."
+  },
+  {
+    "id": 314,
+    "namn": "Jacka 314",
+    "pris": 6847,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 314."
+  },
+  {
+    "id": 315,
+    "namn": "Klänning 315",
+    "pris": 8359,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 315."
+  },
+  {
+    "id": 316,
+    "namn": "Byxor 316",
+    "pris": 9420,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 316."
+  },
+  {
+    "id": 317,
+    "namn": "Mössa 317",
+    "pris": 3263,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 317."
+  },
+  {
+    "id": 318,
+    "namn": "Kudde 318",
+    "pris": 4643,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 318."
+  },
+  {
+    "id": 319,
+    "namn": "Filt 319",
+    "pris": 9561,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 319."
+  },
+  {
+    "id": 320,
+    "namn": "Kruka 320",
+    "pris": 4221,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 320."
+  },
+  {
+    "id": 321,
+    "namn": "Spel 321",
+    "pris": 2551,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 321."
+  },
+  {
+    "id": 322,
+    "namn": "Byxor 322",
+    "pris": 5832,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 322."
+  },
+  {
+    "id": 323,
+    "namn": "Stol 323",
+    "pris": 7319,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 323."
+  },
+  {
+    "id": 324,
+    "namn": "Hörlurar 324",
+    "pris": 9303,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 324."
+  },
+  {
+    "id": 325,
+    "namn": "Bord 325",
+    "pris": 1171,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 325."
+  },
+  {
+    "id": 326,
+    "namn": "Kruka 326",
+    "pris": 1206,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 326."
+  },
+  {
+    "id": 327,
+    "namn": "Kamera 327",
+    "pris": 7260,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 327."
+  },
+  {
+    "id": 328,
+    "namn": "Mus 328",
+    "pris": 9134,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 328."
+  },
+  {
+    "id": 329,
+    "namn": "Hörlurar 329",
+    "pris": 9523,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 329."
+  },
+  {
+    "id": 330,
+    "namn": "Tennisracket 330",
+    "pris": 2028,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 330."
+  },
+  {
+    "id": 331,
+    "namn": "Skärm 331",
+    "pris": 1160,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 331."
+  },
+  {
+    "id": 332,
+    "namn": "Spel 332",
+    "pris": 2004,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 332."
+  },
+  {
+    "id": 333,
+    "namn": "Docka 333",
+    "pris": 7330,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 333."
+  },
+  {
+    "id": 334,
+    "namn": "Simglasögon 334",
+    "pris": 7636,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 334."
+  },
+  {
+    "id": 335,
+    "namn": "Jacka 335",
+    "pris": 3074,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 335."
+  },
+  {
+    "id": 336,
+    "namn": "Byxor 336",
+    "pris": 1011,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 336."
+  },
+  {
+    "id": 337,
+    "namn": "Byxor 337",
+    "pris": 9628,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 337."
+  },
+  {
+    "id": 338,
+    "namn": "Bord 338",
+    "pris": 6746,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 338."
+  },
+  {
+    "id": 339,
+    "namn": "Stol 339",
+    "pris": 4817,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 339."
+  },
+  {
+    "id": 340,
+    "namn": "Yogamatta 340",
+    "pris": 6847,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 340."
+  },
+  {
+    "id": 341,
+    "namn": "Kruka 341",
+    "pris": 6521,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 341."
+  },
+  {
+    "id": 342,
+    "namn": "Kudde 342",
+    "pris": 5883,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 342."
+  },
+  {
+    "id": 343,
+    "namn": "Fotboll 343",
+    "pris": 5876,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 343."
+  },
+  {
+    "id": 344,
+    "namn": "Vas 344",
+    "pris": 675,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 344."
+  },
+  {
+    "id": 345,
+    "namn": "Tröja 345",
+    "pris": 8584,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 345."
+  },
+  {
+    "id": 346,
+    "namn": "Mus 346",
+    "pris": 3823,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 346."
+  },
+  {
+    "id": 347,
+    "namn": "Kudde 347",
+    "pris": 7997,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 347."
+  },
+  {
+    "id": 348,
+    "namn": "Kudde 348",
+    "pris": 8787,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 348."
+  },
+  {
+    "id": 349,
+    "namn": "Telefon 349",
+    "pris": 1060,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 349."
+  },
+  {
+    "id": 350,
+    "namn": "Klossar 350",
+    "pris": 5712,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 350."
+  },
+  {
+    "id": 351,
+    "namn": "Skor 351",
+    "pris": 8957,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 351."
+  },
+  {
+    "id": 352,
+    "namn": "Filt 352",
+    "pris": 4715,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 352."
+  },
+  {
+    "id": 353,
+    "namn": "Drakar 353",
+    "pris": 2934,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 353."
+  },
+  {
+    "id": 354,
+    "namn": "Hantel 354",
+    "pris": 4371,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 354."
+  },
+  {
+    "id": 355,
+    "namn": "Bord 355",
+    "pris": 2467,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 355."
+  },
+  {
+    "id": 356,
+    "namn": "Hantel 356",
+    "pris": 5278,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 356."
+  },
+  {
+    "id": 357,
+    "namn": "Skidor 357",
+    "pris": 2521,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 357."
+  },
+  {
+    "id": 358,
+    "namn": "Hantel 358",
+    "pris": 7045,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 358."
+  },
+  {
+    "id": 359,
+    "namn": "Kamera 359",
+    "pris": 8172,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 359."
+  },
+  {
+    "id": 360,
+    "namn": "Docka 360",
+    "pris": 2826,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 360."
+  },
+  {
+    "id": 361,
+    "namn": "Laptop 361",
+    "pris": 7313,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 361."
+  },
+  {
+    "id": 362,
+    "namn": "Mössa 362",
+    "pris": 3771,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 362."
+  },
+  {
+    "id": 363,
+    "namn": "Tangentbord 363",
+    "pris": 7373,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 363."
+  },
+  {
+    "id": 364,
+    "namn": "Bord 364",
+    "pris": 415,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 364."
+  },
+  {
+    "id": 365,
+    "namn": "Tennisracket 365",
+    "pris": 9481,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 365."
+  },
+  {
+    "id": 366,
+    "namn": "Laptop 366",
+    "pris": 8420,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 366."
+  },
+  {
+    "id": 367,
+    "namn": "Filt 367",
+    "pris": 4349,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 367."
+  },
+  {
+    "id": 368,
+    "namn": "Spel 368",
+    "pris": 521,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 368."
+  },
+  {
+    "id": 369,
+    "namn": "Lampa 369",
+    "pris": 9248,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 369."
+  },
+  {
+    "id": 370,
+    "namn": "Löparskor 370",
+    "pris": 1221,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 370."
+  },
+  {
+    "id": 371,
+    "namn": "Kruka 371",
+    "pris": 4020,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 371."
+  },
+  {
+    "id": 372,
+    "namn": "Drakar 372",
+    "pris": 8327,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 372."
+  },
+  {
+    "id": 373,
+    "namn": "Klossar 373",
+    "pris": 4707,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 373."
+  },
+  {
+    "id": 374,
+    "namn": "Kamera 374",
+    "pris": 2063,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 374."
+  },
+  {
+    "id": 375,
+    "namn": "Spel 375",
+    "pris": 2304,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 375."
+  },
+  {
+    "id": 376,
+    "namn": "Jeans 376",
+    "pris": 3911,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 376."
+  },
+  {
+    "id": 377,
+    "namn": "Mössa 377",
+    "pris": 3039,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 377."
+  },
+  {
+    "id": 378,
+    "namn": "Byxor 378",
+    "pris": 1921,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 378."
+  },
+  {
+    "id": 379,
+    "namn": "Verktyg 379",
+    "pris": 7912,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 379."
+  },
+  {
+    "id": 380,
+    "namn": "Filt 380",
+    "pris": 1676,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 380."
+  },
+  {
+    "id": 381,
+    "namn": "Mus 381",
+    "pris": 7043,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 381."
+  },
+  {
+    "id": 382,
+    "namn": "Jeans 382",
+    "pris": 9103,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 382."
+  },
+  {
+    "id": 383,
+    "namn": "Verktyg 383",
+    "pris": 6627,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 383."
+  },
+  {
+    "id": 384,
+    "namn": "Mus 384",
+    "pris": 3362,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 384."
+  },
+  {
+    "id": 385,
+    "namn": "Docka 385",
+    "pris": 528,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 385."
+  },
+  {
+    "id": 386,
+    "namn": "Bil 386",
+    "pris": 8347,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 386."
+  },
+  {
+    "id": 387,
+    "namn": "Teddybjörn 387",
+    "pris": 3642,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 387."
+  },
+  {
+    "id": 388,
+    "namn": "Bord 388",
+    "pris": 1984,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 388."
+  },
+  {
+    "id": 389,
+    "namn": "Bil 389",
+    "pris": 988,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 389."
+  },
+  {
+    "id": 390,
+    "namn": "Färgpennor 390",
+    "pris": 4067,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 390."
+  },
+  {
+    "id": 391,
+    "namn": "Färgpennor 391",
+    "pris": 3306,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 391."
+  },
+  {
+    "id": 392,
+    "namn": "Laptop 392",
+    "pris": 5917,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 392."
+  },
+  {
+    "id": 393,
+    "namn": "Fotboll 393",
+    "pris": 3953,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 393."
+  },
+  {
+    "id": 394,
+    "namn": "Jeans 394",
+    "pris": 9086,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 394."
+  },
+  {
+    "id": 395,
+    "namn": "Lampa 395",
+    "pris": 5014,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 395."
+  },
+  {
+    "id": 396,
+    "namn": "Telefon 396",
+    "pris": 2662,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 396."
+  },
+  {
+    "id": 397,
+    "namn": "Verktyg 397",
+    "pris": 3648,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 397."
+  },
+  {
+    "id": 398,
+    "namn": "Skidor 398",
+    "pris": 3028,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 398."
+  },
+  {
+    "id": 399,
+    "namn": "Tröja 399",
+    "pris": 9230,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 399."
+  },
+  {
+    "id": 400,
+    "namn": "Teddybjörn 400",
+    "pris": 5268,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 400."
+  },
+  {
+    "id": 401,
+    "namn": "Hörlurar 401",
+    "pris": 8497,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 401."
+  },
+  {
+    "id": 402,
+    "namn": "Filt 402",
+    "pris": 760,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 402."
+  },
+  {
+    "id": 403,
+    "namn": "Tennisracket 403",
+    "pris": 3420,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 403."
+  },
+  {
+    "id": 404,
+    "namn": "Hörlurar 404",
+    "pris": 9965,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 404."
+  },
+  {
+    "id": 405,
+    "namn": "Filt 405",
+    "pris": 8625,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 405."
+  },
+  {
+    "id": 406,
+    "namn": "Tangentbord 406",
+    "pris": 6550,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 406."
+  },
+  {
+    "id": 407,
+    "namn": "Vas 407",
+    "pris": 8455,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 407."
+  },
+  {
+    "id": 408,
+    "namn": "Skidor 408",
+    "pris": 7299,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 408."
+  },
+  {
+    "id": 409,
+    "namn": "Laptop 409",
+    "pris": 6628,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 409."
+  },
+  {
+    "id": 410,
+    "namn": "Klänning 410",
+    "pris": 6747,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 410."
+  },
+  {
+    "id": 411,
+    "namn": "Hantel 411",
+    "pris": 483,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 411."
+  },
+  {
+    "id": 412,
+    "namn": "Lampa 412",
+    "pris": 6287,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 412."
+  },
+  {
+    "id": 413,
+    "namn": "Vas 413",
+    "pris": 3989,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 413."
+  },
+  {
+    "id": 414,
+    "namn": "Filt 414",
+    "pris": 1826,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 414."
+  },
+  {
+    "id": 415,
+    "namn": "Laptop 415",
+    "pris": 2714,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 415."
+  },
+  {
+    "id": 416,
+    "namn": "Tröja 416",
+    "pris": 9762,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 416."
+  },
+  {
+    "id": 417,
+    "namn": "Lampa 417",
+    "pris": 8366,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 417."
+  },
+  {
+    "id": 418,
+    "namn": "Tennisracket 418",
+    "pris": 4642,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 418."
+  },
+  {
+    "id": 419,
+    "namn": "Jeans 419",
+    "pris": 1507,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 419."
+  },
+  {
+    "id": 420,
+    "namn": "Lampa 420",
+    "pris": 2471,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 420."
+  },
+  {
+    "id": 421,
+    "namn": "Färgpennor 421",
+    "pris": 8650,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 421."
+  },
+  {
+    "id": 422,
+    "namn": "Löparskor 422",
+    "pris": 6785,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 422."
+  },
+  {
+    "id": 423,
+    "namn": "Mus 423",
+    "pris": 7578,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 423."
+  },
+  {
+    "id": 424,
+    "namn": "Drakar 424",
+    "pris": 9137,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 424."
+  },
+  {
+    "id": 425,
+    "namn": "Verktyg 425",
+    "pris": 4562,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 425."
+  },
+  {
+    "id": 426,
+    "namn": "Klänning 426",
+    "pris": 1314,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 426."
+  },
+  {
+    "id": 427,
+    "namn": "Kamera 427",
+    "pris": 2753,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 427."
+  },
+  {
+    "id": 428,
+    "namn": "Tröja 428",
+    "pris": 5428,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 428."
+  },
+  {
+    "id": 429,
+    "namn": "Laptop 429",
+    "pris": 8325,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 429."
+  },
+  {
+    "id": 430,
+    "namn": "Bord 430",
+    "pris": 9438,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 430."
+  },
+  {
+    "id": 431,
+    "namn": "Skor 431",
+    "pris": 3204,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 431."
+  },
+  {
+    "id": 432,
+    "namn": "Jeans 432",
+    "pris": 179,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 432."
+  },
+  {
+    "id": 433,
+    "namn": "Spel 433",
+    "pris": 4054,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 433."
+  },
+  {
+    "id": 434,
+    "namn": "Kudde 434",
+    "pris": 4960,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 434."
+  },
+  {
+    "id": 435,
+    "namn": "Skor 435",
+    "pris": 8073,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 435."
+  },
+  {
+    "id": 436,
+    "namn": "T-shirt 436",
+    "pris": 775,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 436."
+  },
+  {
+    "id": 437,
+    "namn": "Jacka 437",
+    "pris": 4060,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 437."
+  },
+  {
+    "id": 438,
+    "namn": "Pussel 438",
+    "pris": 4514,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 438."
+  },
+  {
+    "id": 439,
+    "namn": "T-shirt 439",
+    "pris": 5785,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 439."
+  },
+  {
+    "id": 440,
+    "namn": "Cykel 440",
+    "pris": 5276,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 440."
+  },
+  {
+    "id": 441,
+    "namn": "Byxor 441",
+    "pris": 582,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 441."
+  },
+  {
+    "id": 442,
+    "namn": "Mössa 442",
+    "pris": 6290,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 442."
+  },
+  {
+    "id": 443,
+    "namn": "Skärm 443",
+    "pris": 7685,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 443."
+  },
+  {
+    "id": 444,
+    "namn": "T-shirt 444",
+    "pris": 4259,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 444."
+  },
+  {
+    "id": 445,
+    "namn": "Klänning 445",
+    "pris": 1440,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 445."
+  },
+  {
+    "id": 446,
+    "namn": "Bil 446",
+    "pris": 3210,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 446."
+  },
+  {
+    "id": 447,
+    "namn": "T-shirt 447",
+    "pris": 1592,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 447."
+  },
+  {
+    "id": 448,
+    "namn": "Skärm 448",
+    "pris": 2957,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 448."
+  },
+  {
+    "id": 449,
+    "namn": "Cykel 449",
+    "pris": 5162,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 449."
+  },
+  {
+    "id": 450,
+    "namn": "Byxor 450",
+    "pris": 8492,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 450."
+  },
+  {
+    "id": 451,
+    "namn": "Jacka 451",
+    "pris": 798,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 451."
+  },
+  {
+    "id": 452,
+    "namn": "Stol 452",
+    "pris": 365,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 452."
+  },
+  {
+    "id": 453,
+    "namn": "Mus 453",
+    "pris": 9553,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 453."
+  },
+  {
+    "id": 454,
+    "namn": "Spel 454",
+    "pris": 6388,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 454."
+  },
+  {
+    "id": 455,
+    "namn": "Bord 455",
+    "pris": 8081,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 455."
+  },
+  {
+    "id": 456,
+    "namn": "Tennisracket 456",
+    "pris": 9964,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 456."
+  },
+  {
+    "id": 457,
+    "namn": "Hantel 457",
+    "pris": 2473,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 457."
+  },
+  {
+    "id": 458,
+    "namn": "Skor 458",
+    "pris": 2054,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 458."
+  },
+  {
+    "id": 459,
+    "namn": "Jeans 459",
+    "pris": 4167,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 459."
+  },
+  {
+    "id": 460,
+    "namn": "Jacka 460",
+    "pris": 2927,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 460."
+  },
+  {
+    "id": 461,
+    "namn": "Stol 461",
+    "pris": 3173,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 461."
+  },
+  {
+    "id": 462,
+    "namn": "Jeans 462",
+    "pris": 2129,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 462."
+  },
+  {
+    "id": 463,
+    "namn": "Skor 463",
+    "pris": 4750,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 463."
+  },
+  {
+    "id": 464,
+    "namn": "Mössa 464",
+    "pris": 5040,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 464."
+  },
+  {
+    "id": 465,
+    "namn": "Fotboll 465",
+    "pris": 6374,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 465."
+  },
+  {
+    "id": 466,
+    "namn": "Verktyg 466",
+    "pris": 8460,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 466."
+  },
+  {
+    "id": 467,
+    "namn": "Kruka 467",
+    "pris": 4351,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 467."
+  },
+  {
+    "id": 468,
+    "namn": "Hantel 468",
+    "pris": 3304,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 468."
+  },
+  {
+    "id": 469,
+    "namn": "Byxor 469",
+    "pris": 1838,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 469."
+  },
+  {
+    "id": 470,
+    "namn": "Skor 470",
+    "pris": 267,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 470."
+  },
+  {
+    "id": 471,
+    "namn": "Löparskor 471",
+    "pris": 9443,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 471."
+  },
+  {
+    "id": 472,
+    "namn": "Klänning 472",
+    "pris": 1688,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 472."
+  },
+  {
+    "id": 473,
+    "namn": "Vas 473",
+    "pris": 8790,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 473."
+  },
+  {
+    "id": 474,
+    "namn": "Hörlurar 474",
+    "pris": 1370,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 474."
+  },
+  {
+    "id": 475,
+    "namn": "Högtalare 475",
+    "pris": 140,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 475."
+  },
+  {
+    "id": 476,
+    "namn": "Simglasögon 476",
+    "pris": 9862,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 476."
+  },
+  {
+    "id": 477,
+    "namn": "Hantel 477",
+    "pris": 5407,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 477."
+  },
+  {
+    "id": 478,
+    "namn": "Verktyg 478",
+    "pris": 5704,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 478."
+  },
+  {
+    "id": 479,
+    "namn": "T-shirt 479",
+    "pris": 2153,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 479."
+  },
+  {
+    "id": 480,
+    "namn": "Drakar 480",
+    "pris": 4574,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 480."
+  },
+  {
+    "id": 481,
+    "namn": "Tennisracket 481",
+    "pris": 6657,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 481."
+  },
+  {
+    "id": 482,
+    "namn": "Verktyg 482",
+    "pris": 4960,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 482."
+  },
+  {
+    "id": 483,
+    "namn": "Bord 483",
+    "pris": 374,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 483."
+  },
+  {
+    "id": 484,
+    "namn": "Jeans 484",
+    "pris": 731,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 484."
+  },
+  {
+    "id": 485,
+    "namn": "Tangentbord 485",
+    "pris": 889,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 485."
+  },
+  {
+    "id": 486,
+    "namn": "Tröja 486",
+    "pris": 9419,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 486."
+  },
+  {
+    "id": 487,
+    "namn": "Mössa 487",
+    "pris": 2858,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 487."
+  },
+  {
+    "id": 488,
+    "namn": "Filt 488",
+    "pris": 1028,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 488."
+  },
+  {
+    "id": 489,
+    "namn": "Stol 489",
+    "pris": 5444,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 489."
+  },
+  {
+    "id": 490,
+    "namn": "Vas 490",
+    "pris": 9325,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 490."
+  },
+  {
+    "id": 491,
+    "namn": "Mus 491",
+    "pris": 936,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 491."
+  },
+  {
+    "id": 492,
+    "namn": "Telefon 492",
+    "pris": 9804,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 492."
+  },
+  {
+    "id": 493,
+    "namn": "Klossar 493",
+    "pris": 6025,
+    "kategori": "Leksaker",
+    "beskrivning": "Bra produkt i kategorin Leksaker. Produktnummer 493."
+  },
+  {
+    "id": 494,
+    "namn": "Skidor 494",
+    "pris": 4532,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 494."
+  },
+  {
+    "id": 495,
+    "namn": "Simglasögon 495",
+    "pris": 3003,
+    "kategori": "Sport",
+    "beskrivning": "Bra produkt i kategorin Sport. Produktnummer 495."
+  },
+  {
+    "id": 496,
+    "namn": "Lampa 496",
+    "pris": 5679,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 496."
+  },
+  {
+    "id": 497,
+    "namn": "Skärm 497",
+    "pris": 817,
+    "kategori": "Elektronik",
+    "beskrivning": "Bra produkt i kategorin Elektronik. Produktnummer 497."
+  },
+  {
+    "id": 498,
+    "namn": "Byxor 498",
+    "pris": 8715,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 498."
+  },
+  {
+    "id": 499,
+    "namn": "Byxor 499",
+    "pris": 5060,
+    "kategori": "Kläder",
+    "beskrivning": "Bra produkt i kategorin Kläder. Produktnummer 499."
+  },
+  {
+    "id": 500,
+    "namn": "Kudde 500",
+    "pris": 8169,
+    "kategori": "Hem & Trädgård",
+    "beskrivning": "Bra produkt i kategorin Hem & Trädgård. Produktnummer 500."
+  }
+]
